@@ -1,13 +1,14 @@
-| ------- | ------- |
-| 作者    | [美]Brian W. Fitzpatrick/Ben Collins-Sussman |
-| 出版社  | 人民邮电出版社 |
-| 副标题  | 软件工程师的团队生存秘笈 |
-| 原作名  | Team Geek:A Software Developer's Guide to Working Well With Others |
-| 译者    | 徐旭铭 |
-| 出版年  | 2012-3 |
-| 页数    | 176 |
-| 定价    | 29.00 元 |
-| ISBN    | 978711530844 |
+| 信息  |  描述 |
+| ----- | ----- |
+| 作者  | [美]Brian W. Fitzpatrick/Ben Collins-Sussman |
+| 出版社| 人民邮电出版社 |
+| 副标题| 软件工程师的团队生存秘笈 |
+| 原作名| Team Geek:A Software Developer's Guide to Working Well With Others |
+| 译者  | 徐旭铭 |
+| 出版年| 2012-3 |
+| 页数  | 176 |
+| 定价  | 29.00 元 |
+| ISBN  | 978711530844 |
 
 ## 隐瞒是有害的
 
